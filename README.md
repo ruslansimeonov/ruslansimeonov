@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ruslansimeonov
 - 👀 I’m interested in writing software 
-- 🌱 I’m currently learning Spring Boot 
+- 🌱 I’m currently learning Spring Boot and JavaScript
 - 💞️ I’m looking to collaborate on different Java projects that could make a difference in this world
 - 📫 How to reach me use my first name + last name @ gmail
 
